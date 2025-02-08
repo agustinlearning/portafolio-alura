@@ -121,6 +121,7 @@ body{
     font-weight: 400;
 }
 
+    /* media queri para la responsividad del proyecto */
 @media (max-width: 1200px) {
     .header{
         padding: 10%;
